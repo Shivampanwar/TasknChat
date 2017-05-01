@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.panwar.talknchat.adapter.ui.ChatActivity">
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:orderInCategory="100"
+          android:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item_alarm"
+        android:icon="@drawable/ic_alarm_name"
+        android:title="@string/alarm"
+        android:showAsAction="always"
+        />
+</menu>

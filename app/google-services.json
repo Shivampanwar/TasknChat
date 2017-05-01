@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "986987277473",
+    "firebase_url": "https://talk-n-chat.firebaseio.com",
+    "project_id": "talk-n-chat",
+    "storage_bucket": "talk-n-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986987277473:android:98bd67241f23c50d",
+        "android_client_info": {
+          "package_name": "com.panwar.talknchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986987277473-o6ol235a95ul4l0ju8e5kstqufegai9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAc-IuU9_YannlmU7jlxWL51Zbv_W4E9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
